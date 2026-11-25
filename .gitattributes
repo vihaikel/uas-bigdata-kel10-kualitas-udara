@@ -1,0 +1,3 @@
+# Script dijalankan di container Linux; CRLF dari Windows membuat bash error
+*.sh text eol=lf
+*.xml text eol=lf
